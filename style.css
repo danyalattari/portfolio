@@ -1,0 +1,32 @@
+#container{
+    height: 820px;
+    background-color: green;
+    text-align: center;
+    border: 2px dashed #000000;
+}
+#box{
+    font-size: 11px;
+    width: 700px;
+    height: 800px;
+    float: right;
+    background-color: wheat;
+    text-align: left;
+    padding: 10px;
+}
+.colorHead{
+    text-align: left;
+    background-color: greenyellow;
+}
+.list{
+    text-align: left;
+    list-style: circle;
+}
+#dan{
+    padding: 10px;
+}
+.midHead{
+    font-weight: bolder;
+}
+.subHead{
+    font-weight: bolder;
+}
